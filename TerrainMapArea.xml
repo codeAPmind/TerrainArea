@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="gb2312" standalone="no" ?>
+<scheme>
+    <area areaName="南瞻部洲" areaID="1" fatherID="0" showHP="0" areaLeft="0" areaRight="0" areaTop="0" areaBottom="0">
+        <areaEdge locx="0" locy="0" />
+        <areaEdge locx="1440" locy="0" />
+        <areaEdge locx="1440" locy="1440" />
+        <areaEdge locx="0" locy="1440" />
+    </area>
+    <area areaName="北俱芦洲" areaID="2" fatherID="0" showHP="0" areaLeft="0" areaRight="0" areaTop="0" areaBottom="0">
+        <areaEdge locx="0" locy="0" />
+        <areaEdge locx="640" locy="0" />
+        <areaEdge locx="640" locy="640" />
+        <areaEdge locx="0" locy="640" />
+    </area>
+    <area areaName="西牛贺洲" areaID="3" fatherID="0" showHP="0" areaLeft="0" areaRight="0" areaTop="0" areaBottom="0">
+        <areaEdge locx="0" locy="0" />
+        <areaEdge locx="640" locy="0" />
+        <areaEdge locx="640" locy="640" />
+        <areaEdge locx="0" locy="640" />
+    </area>
+    <area areaName="长安" areaID="1000101" fatherID="1" showHP="1" areaLeft="-69" areaRight="1509" areaTop="229" areaBottom="1807">
+        <areaEdge locx="1" locy="1176" />
+        <areaEdge locx="173" locy="1176" />
+        <areaEdge locx="384" locy="1006" />
+        <areaEdge locx="390" locy="920" />
+        <areaEdge locx="482" locy="724" />
+        <areaEdge locx="484" locy="598" />
+        <areaEdge locx="914" locy="598" />
+        <areaEdge locx="1008" locy="670" />
+        <areaEdge locx="995" locy="744" />
+        <areaEdge locx="981" locy="768" />
+        <areaEdge locx="1007" locy="881" />
+        <areaEdge locx="1439" locy="886" />
+        <areaEdge locx="1439" locy="1439" />
+        <areaEdge locx="1" locy="1439" />
+    </area>
+    <area areaName="女儿国" areaID="1000102" fatherID="1" showHP="0" areaLeft="-402" areaRight="887" areaTop="-57" areaBottom="1232">
+        <areaEdge locx="1" locy="1" />
+        <areaEdge locx="468" locy="1" />
+        <areaEdge locx="484" locy="136" />
+        <areaEdge locx="483" locy="608" />
+        <areaEdge locx="480" locy="724" />
+        <areaEdge locx="389" locy="919" />
+        <areaEdge locx="383" locy="1006" />
+        <areaEdge locx="172" locy="1174" />
+        <areaEdge locx="1" locy="1175" />
+    </area>
+    <area areaName="天外天" areaID="1000103" fatherID="1" showHP="0" areaLeft="422" areaRight="1486" areaTop="-90" areaBottom="974">
+        <areaEdge locx="469" locy="1" />
+        <areaEdge locx="1439" locy="1" />
+        <areaEdge locx="1439" locy="885" />
+        <areaEdge locx="1008" locy="880" />
+        <areaEdge locx="982" locy="768" />
+        <areaEdge locx="996" locy="744" />
+        <areaEdge locx="1010" locy="669" />
+        <areaEdge locx="915" locy="597" />
+        <areaEdge locx="484" locy="597" />
+        <areaEdge locx="485" locy="136" />
+    </area>
+    <area areaName="五行山" areaID="1000201" fatherID="2" showHP="0" areaLeft="-30" areaRight="670" areaTop="-194" areaBottom="506">
+        <areaEdge locx="1" locy="1" />
+        <areaEdge locx="639" locy="1" />
+        <areaEdge locx="639" locy="235" />
+        <areaEdge locx="559" locy="235" />
+        <areaEdge locx="417" locy="311" />
+        <areaEdge locx="386" locy="302" />
+        <areaEdge locx="378" locy="291" />
+        <areaEdge locx="342" locy="288" />
+        <areaEdge locx="271" locy="278" />
+        <areaEdge locx="219" locy="228" />
+        <areaEdge locx="168" locy="234" />
+        <areaEdge locx="1" locy="234" />
+    </area>
+    <area areaName="高老庄" areaID="1000202" fatherID="2" showHP="0" areaLeft="-30" areaRight="670" areaTop="84" areaBottom="784">
+        <areaEdge locx="1" locy="235" />
+        <areaEdge locx="168" locy="235" />
+        <areaEdge locx="219" locy="229" />
+        <areaEdge locx="270" locy="279" />
+        <areaEdge locx="342" locy="289" />
+        <areaEdge locx="377" locy="292" />
+        <areaEdge locx="385" locy="303" />
+        <areaEdge locx="417" locy="312" />
+        <areaEdge locx="559" locy="236" />
+        <areaEdge locx="639" locy="236" />
+        <areaEdge locx="639" locy="639" />
+        <areaEdge locx="1" locy="639" />
+    </area>
+    <area areaName="白虎岭" areaID="1000301" fatherID="3" showHP="0" areaLeft="-30" areaRight="670" areaTop="-169" areaBottom="531">
+        <areaEdge locx="1" locy="1" />
+        <areaEdge locx="639" locy="1" />
+        <areaEdge locx="639" locy="354" />
+        <areaEdge locx="543" locy="352" />
+        <areaEdge locx="425" locy="362" />
+        <areaEdge locx="317" locy="345" />
+        <areaEdge locx="226" locy="345" />
+        <areaEdge locx="139" locy="361" />
+        <areaEdge locx="1" locy="361" />
+    </area>
+    <area areaName="五庄观" areaID="1000302" fatherID="3" showHP="0" areaLeft="-30" areaRight="670" areaTop="142" areaBottom="842">
+        <areaEdge locx="1" locy="362" />
+        <areaEdge locx="139" locy="362" />
+        <areaEdge locx="226" locy="346" />
+        <areaEdge locx="317" locy="346" />
+        <areaEdge locx="425" locy="363" />
+        <areaEdge locx="543" locy="353" />
+        <areaEdge locx="639" locy="355" />
+        <areaEdge locx="639" locy="639" />
+        <areaEdge locx="1" locy="639" />
+    </area>
+</scheme>
